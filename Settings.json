@@ -1,0 +1,30 @@
+{
+    "Account": {
+      "Email": "email@email.com",
+      "Prefix": "!"
+    },
+    "Control": {
+      "Give full access to": ["c4bafbeb880843b383097240b67858a1"],
+      "Public Bot": "false" 
+    },
+    "Party": {
+      "Cosmetics": {
+        "Banner": {
+          "Banner Color": "defaultcolor1",
+          "Banner Name": "BRSeason01",
+          "Season Level": 9999,
+          "battle pass tier": 9999
+        },
+        "Skin": "CID_028_Athena_Commando_F",
+        "Backpack": "BID_023_Pinkbear",
+        "Pickaxe": "HalloweenScythe",
+        "Emote": "EID_CloudFloat"
+      },
+      "Platform": "WIN",
+      "Join party on invitation": "false" 
+      
+},
+    "Friends": {
+      "Accept all friend requests": "false" 
+    }
+  }
